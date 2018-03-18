@@ -1,0 +1,9 @@
+*.ez
+*.iml
+/.fetch
+/_build/
+/cover/
+/deps/
+/doc/
+elixirscript_demo-*.tar
+erl_crash.dump
